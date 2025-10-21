@@ -136,10 +136,12 @@ Use Cases:
 - Manage Users (Admin only)
 
 ### How to Create the Diagram
-1. Open Draw.io or any similar tool.  
-2. Create a system boundary labeled “Booking Management System.”  
-3. Add the actors (Guest, Registered User, Admin) outside the boundary.  
-4. Inside the boundary, list the main use cases mentioned above.  
-5. Connect each actor to the corresponding use cases using association lines.
+1. Open Draw.io or any similar tool.
+2. ![Booking System Use Case Diagram](./alx-booking-uc.png)
+
+3. Create a system boundary labeled “Booking Management System.”  
+4. Add the actors (Guest, Registered User, Admin) outside the boundary.  
+5. Inside the boundary, list the main use cases mentioned above.  
+6. Connect each actor to the corresponding use cases using association lines.
 
 When done, export your diagram as a PNG file and name it:
