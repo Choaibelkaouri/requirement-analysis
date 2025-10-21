@@ -144,4 +144,3 @@ Use Cases:
 5. Inside the boundary, list the main use cases mentioned above.  
 6. Connect each actor to the corresponding use cases using association lines.
 
-When done, export your diagram as a PNG file and name it:
